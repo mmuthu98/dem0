@@ -1,0 +1,14 @@
+body{
+	background-color: maroon
+}
+h1{
+	font-size: 30px ;
+	color: teal;
+}
+h2{
+	color: blue;
+	font-size: 20px;
+}
+.big{
+	color:red;
+}
